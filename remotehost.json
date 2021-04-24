@@ -1,0 +1,7 @@
+{
+"hosts": [
+	{"host": "cnn.com"},
+	{ "host": "ndtv.com" },
+	{ "host": "foxnews.com" }
+]
+}
